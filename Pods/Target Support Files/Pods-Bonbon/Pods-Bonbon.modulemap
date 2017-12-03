@@ -1,0 +1,6 @@
+framework module Pods_Bonbon {
+  umbrella header "Pods-Bonbon-umbrella.h"
+
+  export *
+  module * { export * }
+}

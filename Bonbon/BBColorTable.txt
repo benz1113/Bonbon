@@ -1,0 +1,8 @@
+NORMAL   NIGHT    RED
+#ffffff  #343434  #fafafa BG
+#ffffff  #363636  #fafafa CELL
+#aaaaaa  #313131  #aaaaaa SEP
+#44AD9F  #ffffff  #fa0000 TINT
+#000000  #ffffff  #000000 TEXT
+#ffffff  #444444  #ffffff BAR
+#f0f0f0  #222222  #dedede HIGHLIGHTED
